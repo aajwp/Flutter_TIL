@@ -1,1 +1,1 @@
-# HelloWorld 앱 실행하기
+# flutter 개발환경 구성하고 hello_world 실행하기
