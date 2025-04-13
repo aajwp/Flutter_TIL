@@ -31,37 +31,34 @@ class MyHomePage extends StatelessWidget {
           height: 500,
           child: Column(
             children: [
-              // 
               Expanded(
                 flex: 1,
                 child: Row(
                   children: [
-                    // 
+                    // 빨간박스
                     Expanded(
                       flex: 1,
                       child: Container(color: Colors.red),
                     ),
-                    // 
                     Expanded(
                       flex: 1,
                       child: Column(
                         children: [
-                          // 
+                          // 파란박스
                           Expanded(
                             flex: 1,
                             child: Container(color: Colors.blue),
                           ),
-                          // 
                           Expanded(
                             flex: 1,
                             child: Row(
                               children: [
-                                // 
+                                // 검은박스
                                 Expanded(
                                   flex: 1,
                                   child: Container(color: Colors.black),
                                 ),
-                                // 
+                                // 주황박스
                                 Expanded(
                                   flex: 1,
                                   child: Container(color: Colors.orange),
@@ -75,7 +72,7 @@ class MyHomePage extends StatelessWidget {
                   ],
                 ),
               ),
-              // 
+              // 노란박스
               Expanded(
                 flex: 1,
                 child: Container(color: Colors.yellow),
@@ -83,9 +80,9 @@ class MyHomePage extends StatelessWidget {
             ],
           ),
         ),
-
-```
       ),
     );
   }
 }
+
+```
