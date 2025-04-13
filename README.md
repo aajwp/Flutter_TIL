@@ -28,3 +28,8 @@
 - 실습(StatelessWidget, StatefulWidget)
 
 <h2>5주차</h2>
+
+- 화면 배치에 쓰는 위젯(Container, Column, Row, Stack, SingleChildScrollView, ListView, ListTile, GridView, PageView, AppBar, TabBar, Tab, TabBarView, BottomNavigationBar)
+- 위치, 정렬, 크기를 위한 위젯(Center, Padding, Align, Expanded, SizedBox, Card)
+- 버튼 계열 위젯(ElevatedButton, TextButton, IconButton, FloatingActionButton)
+- 화면 표시용 위젯(Text, Image, Icon, Progress, CircleAvatar)
