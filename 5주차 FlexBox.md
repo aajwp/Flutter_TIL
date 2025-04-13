@@ -31,37 +31,37 @@ class MyHomePage extends StatelessWidget {
           height: 500,
           child: Column(
             children: [
-              // 상단 부분
+              // 
               Expanded(
                 flex: 1,
                 child: Row(
                   children: [
-                    // 왼쪽 빨간색 박스
+                    // 
                     Expanded(
                       flex: 1,
                       child: Container(color: Colors.red),
                     ),
-                    // 오른쪽 부분
+                    // 
                     Expanded(
                       flex: 1,
                       child: Column(
                         children: [
-                          // 파란색 박스
+                          // 
                           Expanded(
                             flex: 1,
                             child: Container(color: Colors.blue),
                           ),
-                          // 검정색과 주황색 행
+                          // 
                           Expanded(
                             flex: 1,
                             child: Row(
                               children: [
-                                // 검정색 박스
+                                // 
                                 Expanded(
                                   flex: 1,
                                   child: Container(color: Colors.black),
                                 ),
-                                // 주황색 박스
+                                // 
                                 Expanded(
                                   flex: 1,
                                   child: Container(color: Colors.orange),
@@ -75,7 +75,7 @@ class MyHomePage extends StatelessWidget {
                   ],
                 ),
               ),
-              // 하단 노란색 부분
+              // 
               Expanded(
                 flex: 1,
                 child: Container(color: Colors.yellow),
