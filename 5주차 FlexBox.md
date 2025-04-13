@@ -1,5 +1,5 @@
-<전체 코드>
-
+## 코드
+```dart
 import 'package:flutter/material.dart';
 
 void main() {
@@ -83,6 +83,8 @@ class MyHomePage extends StatelessWidget {
             ],
           ),
         ),
+
+```
       ),
     );
   }
