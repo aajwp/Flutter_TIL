@@ -35,7 +35,8 @@
 - 화면 표시용 위젯(Text, Image, Icon, Progress, CircleAvatar)
 
 <h2>6주차</h2>
-<기본위젯>
+
+<기본 위젯>
 - 입력용 위젯
 - 다이얼로그
 - 이벤트
