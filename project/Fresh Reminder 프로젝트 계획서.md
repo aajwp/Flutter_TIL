@@ -65,7 +65,7 @@ revision 기록방식
 ### **6주차 - 테스트, 버그 수정 및 마무리**  
 ### **7주차 - 최종 발표**  
 
-![개발 일정 간트차트](https://github.com/aajwp/Flutter_TIL/blob/main/project/Project%20Gantt%20Chart%20.png)
+![개발 일정 간트차트](https://github.com/aajwp/Flutter_TIL/blob/main/project/Project%20Gantt%20Chart.png)
 ---
 
 ## 🔧 리소스 계획
