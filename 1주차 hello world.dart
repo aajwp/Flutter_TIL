@@ -1,5 +1,3 @@
-<h2>1주차</h2>
-
 - Android Studio에 flutter 플러그인 설치
 - flutter sdk 설치
 - 환경변수 설정
