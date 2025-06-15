@@ -1,4 +1,7 @@
-<h2>구구단 출력</h2>
+# 구구단 출력
+
+```dart
+import 'package:flutter/material.dart';
 
 void main() {
   for (int i = 2; i <= 9; i++) {
@@ -10,9 +13,12 @@ void main() {
   }
 }
 
----
+```
 
-<h2>요일 출력</h2>
+# 요일 출력
+
+```dart
+import 'package:flutter/material.dart';
 
 void main() {
   String input = '2025-03-11';
@@ -22,3 +28,5 @@ void main() {
 
   print('${weekdays[date.weekday - 1]}요일');
 }
+
+```
